@@ -1,0 +1,26 @@
+.idea/
+*.pyc
+*.bak
+/env/
+/profile/
+/public/
+/static/
+*.sqlite3
+*.log
+*.log.*
+/.env
+*.sass-cache*
+*.css.map
+/test/
+.project
+.pydevproject
+.settings/
+.coverage
+/htmlcov/
+celerybeat-schedule
+
+# Ignore anything in git-exempt folder
+git-exempt/*
+
+
+.vscode/
